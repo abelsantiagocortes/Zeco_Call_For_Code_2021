@@ -1,0 +1,22 @@
+{
+  "name": "cloudant_zeco",
+  "version": "1.0.0",
+  "description": "Zeco Node JS Repo",
+  "main": "Cloudant.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abelsantiagocortes/Zeco_Call_For_Code_2021.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abelsantiagocortes/Zeco_Call_For_Code_2021/issues"
+  },
+  "homepage": "https://github.com/abelsantiagocortes/Zeco_Call_For_Code_2021#readme",
+  "dependencies": {
+    "@cloudant/cloudant": "^4.4.0"
+  }
+}
